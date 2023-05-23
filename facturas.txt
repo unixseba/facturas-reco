@@ -1,0 +1,1 @@
+Facturas utilizadas para pruebas de reconocimiento y clasificacion
